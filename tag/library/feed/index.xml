@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>library Archives - Dustin K. Lowe</title>
+	<atom:link href="/tag/library/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/library/</link>
+	<description>Books by Author Dustin K. Lowe</description>
+	<lastBuildDate>Sat, 14 Sep 2019 18:42:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/www.dustinlowe.com/wp-content/uploads/2019/07/cropped-DL-logo-bg-x144.png?fit=32%2C32&#038;ssl=1</url>
+	<title>library Archives - Dustin K. Lowe</title>
+	<link>/tag/library/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">160639128</site>	<item>
+		<title>Macmillan&#8217;s Hatred for Libraries</title>
+		<link>/macmillans-hatred-for-libraries/</link>
+					<comments>/macmillans-hatred-for-libraries/#respond</comments>
+		
+		<dc:creator><![CDATA[Dustin]]></dc:creator>
+		<pubDate>Thu, 05 Sep 2019 01:13:59 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[macmillan]]></category>
+		<guid isPermaLink="false">https://dustinlowe.com/?p=2845</guid>
+
+					<description><![CDATA[I&#8217;ve just been made aware that Macmillan is actively trying to hinder libraries in the U.S. I recently viewed a twitter thread from Jennifer Anne, a fellow librarian and bibliophile, who posted some interesting numbers. A Tor novella usually has an SRP between $11.99-$14.99Amazon print: $7.58-$14.31Kindle: $3.99Library print: $7.31-$9.21OverDrive: $60 for earlier of 52 checkouts...]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;ve just been made aware that Macmillan is actively trying to hinder libraries in the U.S. I recently viewed a twitter thread from Jennifer Anne, a fellow librarian and bibliophile, who posted some interesting numbers. </p>
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A Tor novella usually has an SRP between $11.99-$14.99<br>Amazon print: $7.58-$14.31<br>Kindle: $3.99<br>Library print: $7.31-$9.21<br>OverDrive: $60 for earlier of 52 checkouts or 24 months</p>— Jennifer Anne (@kidsilkhaze) <a href="https://twitter.com/kidsilkhaze/status/1169257849907625985?ref_src=twsrc%5Etfw">September 4, 2019</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<p>This is the current pricing that Macmillan uses on Overdrive. They&#8217;ve not only dramatically increased the pricing for ebooks on Overdrive, but they&#8217;re also releasing new lending terms that will greatly hinder libraries. Libraries will only be able to purchase one copy of a Tor novella for $30. This is only per library system <strong>and</strong> consortium. Which means that the Ohio Digital Library, the consortium that my library uses, will only be able to lend out one copy per book. That&#8217;s 177 libraries that can only lend out one copy online!</p>
+
+
+
+<p>This will make the waitlists ridiculously long which Macmillan wants so that you will go and buy the book and stop using the library. This publisher is essentially trying to kill libraries in the U.S. </p>
+
+
+
+<p>The Authors Guild, a non-profit organization that advocates for author&#8217;s rights, has also decided to support the new lending terms. From their <a href="https://www.authorsguild.org/industry-advocacy/macmillan-announces-new-library-lending-terms-for-ebooks/">statement</a>, &#8220;The Authors Guild welcomes this approach and thinks it is a reasonable compromise between the needs of the authors and the needs of the libraries.&#8221; They also point out by saying that, &#8220;If, as Macmillan has determined, 45% of ebook reads are occurring through libraries and that percentage is only growing, it means that we are training readers to read ebooks for free through libraries instead of buying them.&#8221;</p>
+
+
+
+<p>The authors guild believes that the people who read their author&#8217;s materials are &#8220;trained&#8221;.  This is a stupid argument because the books are clearly not free. They are bought by the libraries which they pay for with fees, fines, and taxpayer funding. Libraries buy copies of books to share with others. The publishers are trying their best to change the rules so they can turn more of a profit. </p>
+
+
+
+<p>So please read the full Twitter thread <a href="https://twitter.com/kidsilkhaze/status/1169256289274187776?s=20">here</a> and also please support your local library however you can! </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/macmillans-hatred-for-libraries/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2845</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>John Scalzi Archives - Dustin K. Lowe</title>
+	<atom:link href="/tag/john-scalzi/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/john-scalzi/</link>
+	<description>Books by Author Dustin K. Lowe</description>
+	<lastBuildDate>Sat, 14 Sep 2019 18:56:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/www.dustinlowe.com/wp-content/uploads/2019/07/cropped-DL-logo-bg-x144.png?fit=32%2C32&#038;ssl=1</url>
+	<title>John Scalzi Archives - Dustin K. Lowe</title>
+	<link>/tag/john-scalzi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">160639128</site>	<item>
+		<title>Book Review &#8211; Old Man&#8217;s War</title>
+		<link>/book-review-old-mans-war/</link>
+					<comments>/book-review-old-mans-war/#respond</comments>
+		
+		<dc:creator><![CDATA[Dustin]]></dc:creator>
+		<pubDate>Thu, 25 Jul 2019 14:00:46 +0000</pubDate>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Book Review]]></category>
+		<category><![CDATA[John Scalzi]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<guid isPermaLink="false">https://dustinlowe.com/?p=2725</guid>
+
+					<description><![CDATA[Old Man’s War, written by John Scalzi, depicts the reality of war but not in the traditional sense. It’s set in a time where the earth had developed space travel and formed a military division called the Colonial Defence Forces (CDF). Along with its military emphasis, Scalzi introduces various alien races ranging from peaceful to religious...]]></description>
+										<content:encoded><![CDATA[
+<p>Old Man’s War, written by John Scalzi, depicts the reality of war but not in the traditional sense. It’s set in a time where the earth had developed space travel and formed a military division called the Colonial Defence Forces (CDF). Along with its military emphasis, Scalzi introduces various alien races ranging from peaceful to religious zealots and even ones that acquired the taste for humans. It explores the possibility that with habitable planets being rare, humans must fight with other advanced races for a chance to colonize them.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>“Our job is to go meet strange new people and cultures, and kill the sons of bitches as quickly as we possibly can.”</em></p></blockquote>
+
+
+
+<p>John Perry, the main character, enlists in the CDF with his wife at the age of 65. His wife, Jane, suffered a heart attack and passed away ten years prior to the beginning of the book. When Perry turns 75, he checks in to the CDF and begins his journey to serve. While on a transport called a Space Elevator, he meets other recruits (Thomas, Jessie, Harry, Alan, Susan, and Maggie) who eventually become friends and dub themselves the “Old Farts”.</p>
+
+
+
+<p>Due to how immensely violent and grueling war with other technologically advanced races is, the CDF enlists elderly men and women to serve because of their knowledge and past experiences. Of course, they can’t let them fight with their frail bodies so instead, they genetically enhance younger and better ones for recruits to utilize.&nbsp;We follow Perry’s progress from old fart to a badass soldier as he embarks on a journey of&nbsp;self-discovery.</p>
+
+
+
+<p>I really enjoyed Old Man&#8217;s War and its philosophical observations. I love Scalzi’s sense of humor that he incorporates in the book as well as the interesting characters.&nbsp;The idea of an army made up of senior citizens is unique, and the weapons and tech he came up with are also clever and inventive. I strongly recommend giving this book a read, especially if you love science fiction like me.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/book-review-old-mans-war/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2725</post-id>	</item>
+	</channel>
+</rss>

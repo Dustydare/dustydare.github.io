@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Dustin K. Lowe	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Books by Author Dustin K. Lowe</description>
+	<lastBuildDate>Sat, 11 Dec 2021 00:17:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Comment on Richwood Presbyterian Church by Lynne Ledley		</title>
+		<link>/richwood-presbyterian-church/#comment-719</link>
+
+		<dc:creator><![CDATA[Lynne Ledley]]></dc:creator>
+		<pubDate>Sat, 11 Dec 2021 00:17:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3435#comment-719</guid>
+
+					<description><![CDATA[If you research the Gazette back probably 27 or 28 years ago wben we were building Susie Leeper wrote an article about the ;stained glass windows which we moved to our new building! The craftsmanship was fabulous !]]></description>
+			<content:encoded><![CDATA[<p>If you research the Gazette back probably 27 or 28 years ago wben we were building Susie Leeper wrote an article about the ;stained glass windows which we moved to our new building! The craftsmanship was fabulous !</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
